@@ -1,0 +1,5 @@
+{
+    "name": "fullstack-react-datta-able",
+    "type": "fullstack",
+    "dirs": "api-server-nodejs, react-ui"
+}
